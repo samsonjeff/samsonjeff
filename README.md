@@ -1,10 +1,9 @@
-# blurdev
+## blurdev
 BS IT - Student (Creator/Frontend Developer)
 
 I am currently a BSIT student and a **`part-time`** contributor to various digital projects that align with my skills. I am learning **`frontend development`** and also plan to study **`backend development`**, with the goal of becoming a **`full-stack developer`**. If you would like to get in touch with me or have any other inquiries, please email me at <a>samson280607@gmail.com</a>. Let’s solve your task together.
 
-##
-Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src= "https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -18,7 +17,7 @@ Languages and Tools
   <img src= "https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
-## 📦 Clone This Template
+### Clone This Template
 
 ```bash
 git clone https://github.com/samsonjeff/samsonjeff.git
