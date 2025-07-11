@@ -20,11 +20,10 @@ I am currently a BSIT student and a **`part-time`** contributor to various digit
 **Certification**
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Six%20Sigma-White%20Belt%20Certified-00C4CC?style=flat&logo=none&logoColor=white" />
+  <img src="https://img.shields.io/badge/Six%20Sigma-White%20Belt%20Certified-white?style=flat&logoColor=black" />
 </p>
 
 **Clone This Template**
-
 ```
 git clone https://github.com/samsonjeff/samsonjeff.git
 ```
