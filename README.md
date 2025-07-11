@@ -23,7 +23,7 @@ I am currently a BSIT student and a **`part-time`** contributor to various digit
     <img src="https://img.shields.io/badge/Six%20Sigma-White%20Belt%20Certified-00C4CC?style=flat&logo=none&logoColor=white" />
 </p>
 
-## Clone This Template
+**Clone This Template**
 
 ```
 git clone https://github.com/samsonjeff/samsonjeff.git
