@@ -23,11 +23,9 @@ I am currently a BSIT student and a **`part-time`** contributor to various digit
   <a href="https://sixsigma.freshlearn.com/certificate/1688633">
   <img src="https://img.shields.io/badge/Six%20Sigma-White%20Belt%20Certified-white?style=flat&logoColor=black" />
   </a>
-  
-  <a target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/DATABIZ%20Con.%202024-Participant-blue?style=flat&logoColor=white" />
   </a>
-  
 </p>
 
 **Clone This Template**
