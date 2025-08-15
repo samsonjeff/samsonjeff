@@ -18,12 +18,16 @@ I am currently a BSIT student and a **`part-time`** contributor to various digit
 **Certification**
 
 <p align="left" target ="_blank">
+  <a href="https://www.credly.com/badges/1380b7fe-c700-4572-a07e-7ca3dc05cbdd" target="_blank">
+    <img src="https://img.shields.io/badge/CISCO-Introduction%20to%20Modern%20AI-blue?style=flat&logo=cisco&logoColor=white" />
+  </a>
   <a href="https://sixsigma.freshlearn.com/certificate/1688633">
   <img src="https://img.shields.io/badge/Six%20Sigma-White%20Belt%20Certified-white?style=flat&logoColor=black" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/DATABIZ%20Con.%202024-Participant-blue?style=flat&logoColor=white" />
   </a>
+
 </p>
 
 **Clone This Template**
