@@ -27,7 +27,6 @@ I am currently a BSIT student and a **`part-time`** contributor to various digit
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/DATABIZ%20Con.%202024-Participant-blue?style=flat&logoColor=white" />
   </a>
-
 </p>
 
 **Clone This Template**
