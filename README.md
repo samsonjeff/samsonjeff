@@ -1,7 +1,7 @@
 ## blurdev
 BS IT - Student
 
-I am currently a BSIT student and a **`part-time`** contributor to various digital projects that align with my skills. I am learning **`frontend development`** and also plan to study **`backend development`**, with the goal of becoming a **`full-stack developer`**. If you would like to get in touch with me or have any other inquiries, please email me at <a>samson280607@gmail.com</a>. Let’s solve your task together.
+I am currently a BSIT student and a **`part-time`** contributor to various digital projects that align with my skills. I am learning **`frontend development`** and also plan to study **`backend development`**, with the goal of becoming a **`full-stack developer`**. If you would like to get in touch with me or have any other inquiries, please email me at <a>samson280607@gmail.com</a>. Let’s work together.
 
 **Languages and Tools**
 
