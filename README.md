@@ -24,8 +24,3 @@ I currently contribute part-time to various digital projects that align with my 
     <img src="https://img.shields.io/badge/DATABIZ%20Con.%202024-Participant-blue?style=flat&logoColor=white" />
   </a>
 </p>
-
-**Clone This Template**
-```
-git clone https://github.com/samsonjeff/samsonjeff.git
-```
