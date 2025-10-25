@@ -1,5 +1,4 @@
-## blurdev
-BS IT - Student
+## BS IT - Student
 
 I currently contribute part-time to various digital projects that align with my skills. I'm still enhancing my **`frontend`** development skills. For collaboration, email me at <a>samson280607@gmail.com</a>.
 
@@ -10,8 +9,6 @@ I currently contribute part-time to various digital projects that align with my 
   <img src= "https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src= "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
 **Certification**
