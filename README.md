@@ -1,6 +1,4 @@
-## BS IT - Student
-
-I currently contribute part-time to various digital projects that align with my skills. I'm still enhancing my **`frontend`** development skills. For collaboration, email me at <a>samson280607@gmail.com</a>.
+### BS IT - Student
 
 **Languages and Tools**
 
