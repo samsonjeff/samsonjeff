@@ -1,5 +1,3 @@
-### BS IT - Student
-
 **Languages and Tools**
 
 <p align="left">
