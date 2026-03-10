@@ -22,4 +22,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/DATABIZ%20Con.%202024-Participant-blue?style=flat&logoColor=white" />
   </a>
+  <a href="https://github.com/samsonjeff/certificates" target="_blank">
+    <img src="https://img.shields.io/badge/Other-Certification-white?style=flat&logoColor=white" />
+  </a>
 </p>
