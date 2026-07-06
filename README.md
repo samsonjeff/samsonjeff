@@ -1,12 +1,20 @@
 **Languages and Tools**
 
   <!-- ![JavaScrip](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) -->
-[![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Language](https://img.shields.io/badge/Language-C%23-green)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Framework](https://img.shields.io/badge/Framework-.NET%20Windows%20Forms-purple)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
+[![Framework](https://img.shields.io/badge/Framework-Tailwind%20CSS-38B2AC)](https://tailwindcss.com/)
+[![Language](https://img.shields.io/badge/Language-Python-3776AB)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Arduino-00979D)](https://www.arduino.cc/)
+[![Database](https://img.shields.io/badge/Database-MySQL-4479A1)](https://www.mysql.com/)
+[![Platform](https://img.shields.io/badge/Platform-Edge%20Impulse-1B1C1D)](https://edgeimpulse.com/)
+ <!-- [![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   <img src= "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![Edge Impulse](https://img.shields.io/badge/-Edge%20Impulse-1B1C1D?style=flat&logo=edge-impulse&logoColor=white)
+  ![Edge Impulse](https://img.shields.io/badge/-Edge%20Impulse-1B1C1D?style=flat&logo=edge-impulse&logoColor=white) -->
+  
 <!--  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) -->
   <!-- ![Python](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) -->
 
