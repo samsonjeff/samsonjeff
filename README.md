@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Language-C%23-5C2D91)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Framework](https://img.shields.io/badge/Framework-.NET%20Windows%20Forms-purple)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
 [![Framework](https://img.shields.io/badge/Framework-Tailwind%20CSS-38B2AC)](https://tailwindcss.com/)
-[![Language](https://img.shields.io/badge/Language-Python-3776AB)](https://www.python.org/)
+[![Runtime](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Platform](https://img.shields.io/badge/Platform-Arduino-00979D)](https://www.arduino.cc/)
 [![Database](https://img.shields.io/badge/Database-MySQL-4479A1)](https://www.mysql.com/)
 [![Platform](https://img.shields.io/badge/Platform-Edge%20Impulse-1B1C1D)](https://edgeimpulse.com/)
