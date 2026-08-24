@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Arduino-00979D)](https://www.arduino.cc/)
 [![Platform](https://img.shields.io/badge/Platform-Edge%20Impulse-1B1C1D)](https://edgeimpulse.com/)
 [![API](https://img.shields.io/badge/API-Meta%20Graph%20API-0668E1?logo=meta&logoColor=white)](https://developers.facebook.com/docs/graph-api/)
-[![Database](https://img.shields.io/badge/Database-MySQL-4479A1)](https://www.mysql.com/)
+[![Database](https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Database](https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
   
 ### Certifications
