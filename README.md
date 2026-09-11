@@ -1,5 +1,8 @@
-### Tech Stack
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=samsonjeff&label=visitors&color=9e9e9e&style=flat" height="18" alt="Visitor Count" />
+</p>
 
+### Tech Stack
 [![Language](https://img.shields.io/badge/Language-C%23-5C2D91)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Framework](https://img.shields.io/badge/Framework-.NET%20Windows%20Forms-purple)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
 [![Framework](https://img.shields.io/badge/Framework-Tailwind%20CSS-38B2AC)](https://tailwindcss.com/)
@@ -12,7 +15,6 @@
 [![Database](https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
   
 ### Certifications
-
 <p align="left">
   <a href="https://www.credly.com/badges/1380b7fe-c700-4572-a07e-7ca3dc05cbdd" target="_blank">
     <img src="https://img.shields.io/badge/CISCO-Introduction%20to%20Modern%20AI-blue?style=flat&logo=cisco&logoColor=white" />
