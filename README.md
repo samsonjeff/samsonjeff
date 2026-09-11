@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=samsonjeff&label=visitors&color=%234a4a4a&style=flat" height="18" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=samsonjeff&label=visitors&color=%234a4a4a&style=flat" height="20" alt="visitors" />
 </p>
 
 ### Tech Stack
