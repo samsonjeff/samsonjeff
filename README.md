@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=samsonjeff&label=visitors&color=%234a4a4a&style=flat" height="18" alt="visitors" />
+</p>
 
 ### Tech Stack
 [![Language](https://img.shields.io/badge/Language-C%23-5C2D91)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -25,8 +28,4 @@
   <a href="https://github.com/samsonjeff/certificates" target="_blank">
     <img src="https://img.shields.io/badge/Other-Certification-white?style=flat&logoColor=white" />
   </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=samsonjeff&label=visitors&color=9e9e9e&style=flat" height="18" alt="Visitor Count" />
 </p>
