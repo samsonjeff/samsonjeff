@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=samsonjeff&label=visitors&color=%234a4a4a&style=flat" height="20" alt="visitors" />
-</p>
 
 ### Tech Stack
 [![Language](https://img.shields.io/badge/Language-C%23-5C2D91)](https://docs.microsoft.com/en-us/dotnet/csharp/)
